@@ -18,8 +18,17 @@ https://app.powerbi.com/view?r=eyJrIjoiMWI5MDdiNTctMjY5Yi00ZGEyLTk5MGMtMjY3OWNlM
 **Painel Linkedin**
 https://app.powerbi.com/view?r=eyJrIjoiMDdiMWM4YTctNTczYy00MTcyLWJhOTItNTI2YmVhOWZiNDQ5IiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
+**Painel Performance Hotmart**
+https://app.powerbi.com/view?r=eyJrIjoiMjkyY2UwZjUtNDExMi00NjUwLWI5YjgtZDM5NGQ3YWE1MjRlIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
+
 **Painel Gerencial**
 https://app.powerbi.com/view?r=eyJrIjoiNGY5NDkzMTItOTMzZC00NjNhLTliZGItYTBlMWIzNzQzZGIzIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
 **Painel Financeiro**
 https://app.powerbi.com/view?r=eyJrIjoiMzRhZTQ4ZDItMzM3Mi00NWI5LThiNzEtMDMyODc5N2FhZDUzIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
+
+**Painel Bootcamp - DRE**
+https://app.powerbi.com/view?r=eyJrIjoiMTk3YzFmZDctYjcyOC00ZjhlLWE2ZDItOGEwMTE1NjZmOWRjIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
+
+**Painel Bootcamp - Perfomance Reginonal e Análise B2B**
+https://app.powerbi.com/view?r=eyJrIjoiMGIzMWE2YzEtYTlhNC00NmViLWJhNDktYzdmMzJlNmYwNjdjIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
