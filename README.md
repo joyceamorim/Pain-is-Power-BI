@@ -34,5 +34,5 @@ https://app.powerbi.com/view?r=eyJrIjoiMTk3YzFmZDctYjcyOC00ZjhlLWE2ZDItOGEwMTE1N
 **Painel Bootcamp - Perfomance Reginonal e Análise B2B**
 https://app.powerbi.com/view?r=eyJrIjoiMGIzMWE2YzEtYTlhNC00NmViLWJhNDktYzdmMzJlNmYwNjdjIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
-** Painel Desafio Certificação Microsoft - Girl Power 2024**
+**Painel Desafio Certificação Microsoft - Girl Power 2024**
 https://app.powerbi.com/view?r=eyJrIjoiOGQzYWU3ZjktMzg3OS00MWUxLWJiNTEtYjNiYzI3YzgyMWQ1IiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
