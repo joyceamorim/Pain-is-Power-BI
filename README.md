@@ -3,7 +3,7 @@ Em Construção, porém estará disponível os links dos Painéis para Visualiza
 
 
 
-**Business Case - Controladoria com DRE **
+** Business Case - Controladoria com DRE **
 
 https://app.powerbi.com/view?r=eyJrIjoiN2UyMWEwZmEtNDhkNS00MWJhLWFhOTItMzBmNGY4ZjA1ZGE3IiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
