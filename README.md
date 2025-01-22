@@ -1,7 +1,20 @@
 # Pain-is-Power-BI
 Em Construção, porém estará disponível os links dos Painéis para Visualização
 
+**Business Case - NPS **
+https://app.powerbi.com/view?r=eyJrIjoiMzBiYjc2ZjMtYzhjYS00YWZjLThlMDgtZWYyYjk2ZTM3ZGNlIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
+**Business Case - People Analytics**
+
+https://app.powerbi.com/view?r=eyJrIjoiNzc2MTkwYWItYjRkNS00NTExLWJjYTAtZDNmMjQ0MGU2MDRiIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
+
+**Business Case - Ifood**
+
+https://app.powerbi.com/view?r=eyJrIjoiN2FjZTg4YTEtOTY3Ny00Yjc1LTkyYmItNWQwY2UyZTQ4ZWI5IiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
+
+**Business Case - Controladoria com DRE com novo Storytelling**
+
+https://app.powerbi.com/view?r=eyJrIjoiN2UyMWEwZmEtNDhkNS00MWJhLWFhOTItMzBmNGY4ZjA1ZGE3IiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
 **Business Case - Controladoria com DRE**
 
