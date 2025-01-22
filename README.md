@@ -2,6 +2,7 @@
 Em Construção, porém estará disponível os links dos Painéis para Visualização
 
 **Business Case - NPS **
+
 https://app.powerbi.com/view?r=eyJrIjoiMzBiYjc2ZjMtYzhjYS00YWZjLThlMDgtZWYyYjk2ZTM3ZGNlIiwidCI6ImUxZWVmZTgxLWUwMzYtNDEzYy1iZjUyLTI0NTM0MjkxN2M4ZSJ9
 
 **Business Case - People Analytics**
